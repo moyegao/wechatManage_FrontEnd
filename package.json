@@ -22,7 +22,7 @@
     "jquery": "^3.3.1",
     "node-sass": "^4.9.3",
     "sass-loader": "^7.1.0",
-    "tinymce": "^5.0.11",
+    "tinymce": "^5.1.4",
     "vue": "^2.5.2",
     "vue-amap": "^0.5.8",
     "vue-contextmenu": "^1.5.9",
